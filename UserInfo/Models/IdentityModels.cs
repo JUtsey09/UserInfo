@@ -29,5 +29,7 @@ namespace UserInfo.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<UserInfo.Table_1> Table_1 { get; set; }
     }
 }
