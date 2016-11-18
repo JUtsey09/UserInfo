@@ -1,7 +1,7 @@
 CompUServ User Repository
 
 Requirements: 
-Visual Studio: https://www.visualstudio.com/ 
+Microsoft Visual Studio: https://www.visualstudio.com/ 
 
 
 My Code Louisville C#/ASP.net project. This is a web app that allows a user to enter their name and email address into a repository for the fictional company "CompUServ". Users can edit and delete their info at their own leisure. 
